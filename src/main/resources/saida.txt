@@ -1,0 +1,29 @@
+
+Linha de Montagem 1:
+9:0:0 Corte de chapas de aço  60min
+10:0:0 Austenpera (tratamento térmico)  30min
+10:30:0 Têmpera abaixo de zero (tratamento térmico)  45min
+11:15:0 Lavagem de peças  45min
+12:0:0 Almoco 60min
+13:0:0 Montagem do sensor de segurança  60min
+14:0:0 Calibração do eixo  30min
+14:30:0 Conjunto de mancal de aço  45min
+15:15:0 Resfriamento da linha de montagem - manutenção 5min
+15:20:0 Processo de nitretação  45min
+16:5:0 Ginástica laboral 60min
+
+Linha de Montagem 2:
+9:0:0 Montagem do subsistema de injeção  60min
+10:0:0 Verificação de conformidade  30min
+10:30:0 Montagem do subsistema de navegação  60min
+11:30:0 Alinhamento da barra estabilizadora esquerda  30min
+12:0:0 Almoco 60min
+13:0:0 Calibração do subsistema do conversor de torque  60min
+14:0:0 Configuração do dispositivo de bloqueio e controle  45min
+14:45:0 Alinhamento da barra estabilizadora direita  30min
+15:15:0 Instalação do selo  45min
+16:0:0 Ginástica laboral 60min
+
+Linha de Montagem 3:
+9:0:0 Aplicação de decalques  30min
+9:30:0 Montagem do subsistema de monitoramento  30min

@@ -1,0 +1,19 @@
+Corte de chapas de aço 60min
+Austenpera (tratamento térmico) 30min
+Têmpera abaixo de zero (tratamento térmico) 45min
+Montagem do sensor de segurança 60min
+Lavagem de peças 45min
+Calibração do eixo 30min
+Conjunto de mancal de aço 45min
+Resfriamento da linha de montagem - manutenção
+Processo de nitretação 45min
+Montagem do subsistema de injeção 60min
+Verificação de conformidade 30min
+Montagem do subsistema de navegação 60min
+Calibração do subsistema do conversor de torque 60min
+Alinhamento da barra estabilizadora esquerda 30min
+Configuração do dispositivo de bloqueio e controle 45min
+Alinhamento da barra estabilizadora direita 30min
+Instalação do selo 45min
+Aplicação de decalques 30min
+Montagem do subsistema de monitoramento 30min
